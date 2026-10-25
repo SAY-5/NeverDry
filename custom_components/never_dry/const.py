@@ -1,7 +1,7 @@
 """Constants for the NeverDry integration."""
 
 DOMAIN = "never_dry"
-CONFIG_VERSION = 4
+CONFIG_VERSION = 5
 
 # ── Sensor inputs ─────────────────────────────────────────
 CONF_TEMP_SENSOR = "temperature_sensor"
